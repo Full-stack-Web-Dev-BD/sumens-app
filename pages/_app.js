@@ -42,7 +42,7 @@ export default class MyApp extends App {
         return (
             <React.Fragment>
                 <Head>
-                    <title>Bariton - React Next IT & Machine Learning Template</title>
+                    <title>Sumens-App</title>
                     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
 
                 </Head>
